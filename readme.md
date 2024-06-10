@@ -57,5 +57,34 @@
   python eval.py --path ./models/model1.pt ctc-safe
   ```  
 
-**We are in the process of organizing the code for other environments, and we expect it to be open-sourced within a week.**
++ CTC-fair
+
+  + train:
+
+  ```
+  python train.py ctc-fair train
+  ```
+
+  + eval the models we trained under different seeds:
+
+  ```
+  python eval.py --path ./models/model1.pt ctc-fair
+  ```  
+
++ CLFM
+
+  + train:
+
+  ```
+  python decom.py
+  ```
+  
++ CDSN
+
+  + train:
+
+  ```
+  python decom.py
+  ```
+
 
