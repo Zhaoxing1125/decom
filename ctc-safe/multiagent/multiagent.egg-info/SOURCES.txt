@@ -1,0 +1,17 @@
+setup.py
+multiagent.egg-info/PKG-INFO
+multiagent.egg-info/SOURCES.txt
+multiagent.egg-info/dependency_links.txt
+multiagent.egg-info/not-zip-safe
+multiagent.egg-info/requires.txt
+multiagent.egg-info/top_level.txt
+scenarios/__init__.py
+scenarios/simple.py
+scenarios/simple_adversary.py
+scenarios/simple_crypto.py
+scenarios/simple_push.py
+scenarios/simple_reference.py
+scenarios/simple_speaker_listener.py
+scenarios/simple_spread.py
+scenarios/simple_tag.py
+scenarios/simple_world_comm.py
